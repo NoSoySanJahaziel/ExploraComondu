@@ -1,0 +1,22 @@
+
+header{
+  width: 100%;
+  background: rgba(129, 129, 129, 0.59);
+}
+.menu ul
+{
+margin: 0;
+list-style: none;
+padding: 0;
+display: flex;;
+justify-content: flex-end;
+}
+.menu a
+{
+  display: block;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: #00AEEF;
+  padding: 15px 20px;
+}
